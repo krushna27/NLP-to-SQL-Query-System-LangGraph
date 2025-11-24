@@ -16,7 +16,7 @@ A natural language interface for querying Excel/CSV files using AI-powered SQL g
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nlp-to-sql-query-system.git
+git clone https://github.com/krushna27/NLP-to-SQL-Query-System-LangGraph.git
 cd nlp-to-sql-query-system
 ```
 
@@ -65,14 +65,7 @@ The system uses LangGraph to create a multi-step workflow:
 
 ## Requirements
 
-- Python 3.8+
 - OpenAI API key
 
-## License
 
-MIT License - see LICENSE file for details
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
 ```
